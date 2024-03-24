@@ -3,12 +3,18 @@ package com.raywenderlich.android.lab1.screens
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material.Text
+
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.tooling.preview.Preview
 import com.raywenderlich.android.lab1.router.BackButtonHandler
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
 import com.raywenderlich.android.lab1.router.Screen
+import com.raywenderlich.android.lab1.R
+
 
 @Composable
 fun TextScreen() {
@@ -26,6 +32,12 @@ fun TextScreen() {
 }
 
 @Composable
+@Preview
 fun MyText() {
-    //TODO add your code here
+    Text(text = stringResource(id = R.string.set_text))
 }
+
+
+
+
+
