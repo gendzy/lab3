@@ -41,6 +41,7 @@ fun TextScreen() {
 @Composable
 @Preview
 fun MyText() {
+
     Text(text = stringResource(id = R.string.set_text),
         fontStyle = FontStyle.Italic,
         color = colorResource(id = R.color.black),
