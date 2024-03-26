@@ -30,6 +30,7 @@ fun MyAlertDialog() {
 
     if (shouldShowDialog.value) {
         AlertDialog(
+
             onDismissRequest = {
                 shouldShowDialog.value = false
                 FundamentalsRouter.navigateTo(Screen.Navigation)
