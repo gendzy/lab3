@@ -29,6 +29,7 @@ fun RowScreen(){
 @Composable
 fun MyRow ()
 {
+
 Row(verticalAlignment = Alignment.CenterVertically,
     horizontalArrangement = Arrangement.SpaceEvenly,
     modifier = Modifier.fillMaxSize()){

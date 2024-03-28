@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lab1</string>
     <string name="massage_button">Закрыть</string>
-    <string name="insert_text">Email</string>
+    <string name="insert_text">Введите текст</string>
     <string name="set_button">выбрать</string>
     <string name="set_text">новое представление</string>
     <string name="button_view_text">Представление с текстом</string>
@@ -12,5 +12,14 @@
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
-
+    <string name="first">Первый</string>
+    <string name="second">Второй</string>
+    <string name="third">Третий</string>
+    <string name="row">Контейнер Row</string>
+    <string name="column">Контейнер Column</string>
+    <string name="box">Контейнер Box</string>
+    <string name="surface">Контейнер Surface</string>
+    <string name="scaffold">Контейнер Scaffold</string>
+    <string name="menu">Меню</string>
+    <string name="composeapp">MyComposeApp</string>
 </resources>
