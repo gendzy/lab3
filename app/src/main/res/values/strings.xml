@@ -20,6 +20,17 @@
     <string name="box">Контейнер Box</string>
     <string name="surface">Контейнер Surface</string>
     <string name="scaffold">Контейнер Scaffold</string>
+    <string name="scrolling">Контейнер Scrolling</string>
     <string name="menu">Меню</string>
     <string name="composeapp">MyComposeApp</string>
+    <string name="android">android</string>
+    <string name="ios">ios</string>
+    <string name="kotlin">kotlin</string>
+    <string name="advanced_architecture_android">Усовершенствованная архитектура Android</string>
+    <string name="kotlin_aprentice">Изучение Kotlin</string>
+    <string name="kotlin_coroutines">Корутины в Kotlin</string>
+    <string name="book_covers">Обложки книг</string>
+    <string name="list">Контейнер List</string>
+    <string name="grid_icon">Иконка</string>
+    <string name="grid">Контейнер Grid</string>
 </resources>
